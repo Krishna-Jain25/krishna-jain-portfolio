@@ -86,6 +86,4 @@ To run this project locally, follow these steps:
 
 This project is open source under the [MIT License](LICENSE).
 
-```
-
 ---
