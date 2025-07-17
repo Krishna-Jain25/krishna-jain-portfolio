@@ -7,12 +7,29 @@
 
 ---
 
+## 👋 About Me
+
+I am Krishna Jain, a passionate Computer Science and Engineering student focused on full-stack development, cloud technologies, and data structures & algorithms.  
+Currently building scalable, user-friendly web applications and continuously learning to improve my skills.
+
+---
+
 ## 🖼 Preview
 
+### Desktop View
+
 <p align="center">
-  <img src="./assets/screenshots/desktop.png" alt="Desktop View" width="500" style="margin-right: 20px;" />
-  <img src="./assets/screenshots/mobile.png" alt="Mobile View" width="200" />
+  <img src="./assets/screenshots/desktop.png" alt="Desktop View" width="700" />
 </p>
+
+---
+
+### Mobile View
+
+<p align="center">
+  <img src="./assets/screenshots/mobile.png" alt="Mobile View" width="300" />
+</p>
+
 
 ---
 
