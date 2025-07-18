@@ -2,7 +2,8 @@
 
 🎯 A modern, responsive, and professional portfolio website showcasing my projects, skills, and journey as a software engineering student.
 
-🔗 **Live Website:** [https://krishna-jain25.github.io/krishna-jain-portfolio](https://krishna-jain25.github.io/krishna-jain-portfolio)  
+🔗 **Live Website:** [https://krishna-jain25.github.io/krishna-jain-portfolio](https://krishna-jain27.github.io/krishna-jain-portfolio)
+  
 📄 **Resume:** [Download Resume](./assets/resume/Krishna_Jain_Resume.pdf)
 
 ---
@@ -58,7 +59,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository to your local machine:**
    ```bash
-   git clone https://github.com/Krishna-Jain25/krishna-jain-portfolio.git
+   git clone https://github.com/Krishna-Jain27/krishna-jain-portfolio.git
     ```
 
 2. **Navigate into the project directory:**
@@ -78,7 +79,7 @@ To run this project locally, follow these steps:
 
 * ✉️ [krishnajain2507@gmail.com](mailto:krishnajain2507@gmail.com)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-jain-62b2bb348/)
-* 💻 [GitHub](https://github.com/Krishna-Jain25)
+* 💻 [GitHub](https://github.com/Krishna-Jain27)
 
 ---
 
